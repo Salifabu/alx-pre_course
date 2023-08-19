@@ -1,1 +1,1 @@
-My first readme
+Coding is hard but interesting
